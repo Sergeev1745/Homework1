@@ -1,0 +1,32 @@
+body {
+	padding:0 50px;
+	width: 600px;
+	height: 900px;
+	border:2px solid black;
+	color: black;
+}
+img {
+	margin-left:180px;
+	width: 200px;
+	height: 200px;
+}
+h2 {
+	text-align:center
+}
+.block1, 
+.block2,
+.block3 {
+	border-bottom: 1px solid black;
+	padding: 10px 20px;
+}
+ul {
+	padding: 10px 25px;
+	font-size:20px;
+}
+p{
+	font-size:20px;
+}
+.block4{
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
