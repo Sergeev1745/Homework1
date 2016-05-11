@@ -1,8 +1,9 @@
 body {
 	padding:0 50px;
+	margin:0 auto;
 	width: 600px;
 	height: 900px;
-	border:2px solid black;
+	box-shadow: 0 3px 5px;
 	color: black;
 }
 .block1{
