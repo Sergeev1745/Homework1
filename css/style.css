@@ -5,8 +5,10 @@ body {
 	border:2px solid black;
 	color: black;
 }
+.block1{
+	text-align: center;
+}
 img {
-	margin-left:180px;
 	width: 200px;
 	height: 200px;
 }
